@@ -70,6 +70,7 @@ GitHub Repository: [Link to GitHub Repository]
 ![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Boostrap5](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 
 #### Library
 ![ReactJS](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB)
