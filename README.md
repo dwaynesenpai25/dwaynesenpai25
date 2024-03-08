@@ -15,23 +15,37 @@
     </a>
 
 </p>
-# 🚀 My GitHub Portfolio 🚀
+## 🌟 Featured Projects 🌟
 
-Welcome to my GitHub portfolio! This repository showcases some of my projects and contributions. Feel free to explore and provide feedback.
+<div align="center">
+  <a href="[Project 1 Repository Link]">
+    <img src="[Project 1 Image Link]" width="200" alt="Project 1">
+  </a>
+  <a href="[Project 2 Repository Link]">
+    <img src="[Project 2 Image Link]" width="200" alt="Project 2">
+  </a>
+  <a href="[Project 3 Repository Link]">
+    <img src="[Project 3 Image Link]" width="200" alt="Project 3">
+  </a>
+  <a href="[Project 4 Repository Link]">
+    <img src="[Project 4 Image Link]" width="200" alt="Project 4">
+  </a>
+</div>
 
-## 🌟 Projects 🌟
+<!-- Description for Projects -->
+## Project Details
 
-### Project 1: [Project Name]
+### [Project 1 Name]
+Description: Brief description of Project 1.
 
-Description: Brief description of the project.
+### [Project 2 Name]
+Description: Brief description of Project 2.
 
-GitHub Repository: [Link to GitHub Repository]
+### [Project 3 Name]
+Description: Brief description of Project 3.
 
-### Project 2: [Project Name]
-
-Description: Brief description of the project.
-
-GitHub Repository: [Link to GitHub Repository]
+### [Project 4 Name]
+Description: Brief description of Project 4.
 
 ## 💡 Contributions 💡
 
