@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlJTKqXfHVIbAJC/giphy.gif" width="600" alt="Animated GIF">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="600" alt="Animated GIF">
 </p>
 
 # 🚀 My GitHub Portfolio 🚀
