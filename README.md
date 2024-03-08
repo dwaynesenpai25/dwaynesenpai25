@@ -74,6 +74,7 @@ GitHub Repository: [Link to GitHub Repository]
 
 #### Library
 ![ReactJS](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VueJS](https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vue.js&logoColor=35495E)
 
 ## 📧 Contact 📧
 
