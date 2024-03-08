@@ -64,7 +64,7 @@ GitHub Repository: [Link to GitHub Repository]
 
 #### DBMS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql) 
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 #### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black)
