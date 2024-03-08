@@ -76,6 +76,10 @@ GitHub Repository: [Link to GitHub Repository]
 ![ReactJS](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VueJS](https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vue.js&logoColor=35495E)
 
+#### LINUX OS
+![Debian](https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=A81D33)
+![Fedora](https://img.shields.io/badge/Fedora-white?style=for-the-badge&logo=fedora&logoColor=294172)
+
 ## 📧 Contact 📧
 
 Feel free to reach out to me via email at [Your Email Address].
