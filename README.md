@@ -65,12 +65,13 @@ GitHub Repository: [Link to GitHub Repository]
 #### DBMS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+
 #### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black)
-![REST Apis](https://img.shields.io/badge/REST%20APIs-white?style=for-the-badge&logo=API)
-![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django)
-![HTMX](https://img.shields.io/badge/HTMX-white?style=for-the-badge&logo=htmx)
+
+#### Library
+![ReactJS](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📧 Contact 📧
 
