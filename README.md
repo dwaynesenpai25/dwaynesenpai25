@@ -88,6 +88,8 @@ GitHub Repository: [Link to GitHub Repository]
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Boostrap5](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 
+#### Mobile Development
+![Flutter](	https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=02569B)
 #### Library
 ![ReactJS](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VueJS](https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vue.js&logoColor=35495E)
