@@ -3,24 +3,7 @@
 <!--   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="1000" alt="Animated GIF"> -->
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" alt="Animated GIF">
 </p>
-<p align="center">
-    <a href="https://www.linkedin.com/in/francis-mark-cayco-33511a190/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCqktL_sOtbr6cNX2me4us5A">
-        <img align="center" src="https://img.shields.io/badge/Youtube-blue?style=social&logo=youtube&logoColor=red" />
-    </a>
-    <a href="mailto:francis_mark_cayco@yahoo.com">
-        <img align="center" src="https://img.shields.io/badge/Email-blue?style=social&logo=yahoo" alt="yahoo">
-    </a>
-
-</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwaynesenpai25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwaynesenpai25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -28,6 +11,13 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dwaynesenpai25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwaynesenpai25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 ## 🌟 Featured Projects 🌟
 
 <div align="center">
