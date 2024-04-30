@@ -18,13 +18,14 @@
 <div align="center" flex="column">
   <img src="https://github-readme-stats.vercel.app/api?username=dwaynesenpai25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwaynesenpai25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-    <img src="https://github.com/dwaynesenpai25/dwaynesenpai25/assets/114319087/4d9050ab-3789-4b42-b001-41c0f3d10ac5"/>
+    <img src="https://github.com/dwaynesenpai25/dwaynesenpai25/assets/114319087/0539c069-356e-443c-9997-edcbe99c6d41"/>
 </div>
 
   <div align="center">
               <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=dwaynesenpai25&bg_color=1c1f21&color=4c9e7f&line=2b823d&point=6f5bd2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
         </div>
 <br clear="both">
+
 
 
 
