@@ -20,7 +20,5 @@
 
 <br clear="both">
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/dwaynesenpai25/dwaynesenpai25/output/snake.svg" alt="Snake animation" />
-</div>
+
 
