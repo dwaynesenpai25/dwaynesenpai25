@@ -19,6 +19,6 @@
 </div>
 
 <br clear="both">
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dwaynesenpai25&bg_color=143448&color=4c9e7f&line=2b823d&point=6f5bd2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
