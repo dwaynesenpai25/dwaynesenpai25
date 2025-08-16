@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
 
-<div align="center" flex="column">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwaynesenpai25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwaynesenpai25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+<div align="center" flex="row">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=dwaynesenpai25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwaynesenpai25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <img src="https://github.com/dwaynesenpai25/dwaynesenpai25/assets/114319087/0539c069-356e-443c-9997-edcbe99c6d41 width="900px"/>
 </div>
 
